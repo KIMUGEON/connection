@@ -11,7 +11,7 @@
 
 |Back-End|Back-End|Back-end|Front-End|Front-End|Front-End|
 |-|-|-|-|-|-|
-| <img src="/uploads/e2b9631cd6614ae5d0a7d13dc257349f/KakaoTalk_Photo_2022-11-21-11-29-09.jpeg" width="150" height="180"/> | <img src="/uploads/f9b17ea2f5607256188ab76521ea96f2/KakaoTalk_Photo_2022-11-21-11-28-13.jpeg" width="150" height="180"/> | <img src="/uploads/f8b437b9d8e8b4d0ffe461d4c3691a58/KakaoTalk_Photo_2022-11-21-11-28-43.jpeg" width="150" height="180"/> | <img src="/uploads/f495d5f65cfb523eeb7a63bd0ba7c76f/beauty_1662207811715.jpeg" width="150" height="180"/> | <img src="/uploads/ef6cfd61c241945e6e5aa826c81051ff/KakaoTalk_Photo_2022-11-21-11-28-54.png" width="150" height="180"/> | <img src="/uploads/777f6ea307713e5b2948cc25d23cf46f/KakaoTalk_Photo_2022-11-21-11-28-40.jpeg" width="150" height="180"/> 
+| <img src="https://postfiles.pstatic.net/MjAyMjExMjVfNSAg/MDAxNjY5MzQxODU0OTQ0.HRMgAuEu3dPdkjF6lMnlvxcLCvHHNqexyfMVMKOwfBog.zpP8xukqtGlQp6wIROLvvOLLF6Sbs_VQnmoYyAl9zZAg.JPEG.junwu19/KakaoTalk_Photo_2022-11-21-11-29-09.jpeg?type=w966" width="150" height="180"/> | <img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTIy/MDAxNjY5MzQxODUzMjkw.-QTEbQWvauzLaeFHVXWeSYJyyVkKcNOFRAzeprbHC4Qg.NuH49BbO683PmPl8X9HE-Pf-oEI5L1zPCbxixNxqtTAg.JPEG.junwu19/KakaoTalk_Photo_2022-11-21-11-28-13.jpeg?type=w966" width="150" height="180"/> | <img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTYg/MDAxNjY5MzQxODUzMzU5.iV4-L_6sqa0Pzmay1UxT_87Z9XvaBjSKfFPlPs6tXjQg.RKueQG4NUElrNFDrpw9AM6TiZZuzKWBg_zfZngxbxVYg.JPEG.junwu19/KakaoTalk_Photo_2022-11-21-11-28-43.jpeg?type=w966" width="150" height="180"/> | <img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTIw/MDAxNjY5MzQxODU1NTMy.L20YmAbNi1Hln3Wt9G193HOiMRf97X1U-HD81033GRQg.bclMzaxkVOnG0m3BapSnalNv5-Mlna8kekel6gteNzwg.JPEG.junwu19/beauty_1662207811715.jpeg?type=w966" width="150" height="180"/> | <img src="https://postfiles.pstatic.net/MjAyMjExMjVfNjAg/MDAxNjY5MzQxODU2Mjk1.z40qP5ivEEUFo0Cc9W0EfPSapdOHdwNmKy_ujelvfZwg.qaDpRVtcYxI5te6b9qR3DJqAddb_uhdQ-wR1t73SW0Ug.PNG.junwu19/KakaoTalk_Photo_2022-11-21-11-28-54.png?type=w966" width="150" height="180"/> | <img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTAz/MDAxNjY5MzQxODUzNTYw.jbSXt9KFWCPJuHBZXHRCr8Y7HV390q57Aio-Kjoq2Ncg.ga-cnmz1RZx7LDZWb95zM0q-3SqmT0wVDIb3yIgl8rAg.JPEG.junwu19/KakaoTalk_Photo_2022-11-21-11-28-40.jpeg?type=w966" width="150" height="180"/>
 | 김준우(팀장)|김우건(팀원)|이기영(팀원)|김윤민(팀원)|염진호(팀원)|최진합(팀원)|
 <br/>
 
@@ -41,7 +41,7 @@
 <br/>
 
 ### 실제 설문조사 결과
-![image](/uploads/475fcf9da5abbcc4ed421a95998a5351/image.png)
+![image](https://postfiles.pstatic.net/MjAyMjExMjVfMTk4/MDAxNjY5MzQyMDg3MDA2.kpyc-XVdwwzOlUYyArAq7cjNdeyxhTZm5fl6W6WXwUYg.t8iyvwtp45QBFGAfbZHYbg0jm2_MhVV7JyvDZ0xTexIg.PNG.junwu19/1.png?type=w966)
 
 
 
@@ -67,7 +67,7 @@
 ```
 
 <br>
-<img src="/uploads/b181d83f5072829a59c35e469e57c708/화면_기록_2022-11-21_오전_11.58.40.gif" width="80%">
+<blockquote class="imgur-embed-pub" lang="en" data-id="Heh0WRC"><a href="https://imgur.com/Heh0WRC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### **문제 추천페이지**
 
@@ -76,7 +76,7 @@
 ```
 
 <br>
-<img src="/uploads/6388ab62c1461b33a8845249cc84b2e3/problemRecommend.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMjM0/MDAxNjY5MzQyMDkyODEx.PsVfexMcipKbqkHK6spKc4aEr3m7OgBxoR35i1VKyR0g.Nb1MPHQTWJt_rP3F_PJfWIX_xRZxyl-yc6UuWGjkjFsg.GIF.junwu19/3.gif?type=w966" width="80%">
 
 ### **스터디 참가 및 생성**
 
@@ -85,7 +85,7 @@
 ```
 
 <br>
-<img src="/uploads/03eacb3bb7685c3b0cd23f88fe7cdc53/studyCreate.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfNTAg/MDAxNjY5MzQyMDg5MDE2.cd4IOOd_XtdEoAxnvrA04rL7gbKyis4oxQHinFr40TQg.stR0O7KYFTTwwuzSfaSLhbiX5hrYsfSVq6dSSF2sTv4g.GIF.junwu19/4.gif?type=w966" width="80%">
 
 
 ### **스터디 관리페이지**
@@ -95,7 +95,7 @@
 ```
 
 <br>
-<img src="/uploads/84beaf37bdafa8833cba1edcc8b62d00/studyTotal.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMjk4/MDAxNjY5MzQyMDk2MTYx.j492YjhZbkoEeAacrcbE4oakdAYLLR0AgbUJ8OWbnSMg.H7In5QZn_YH9JEDEX2aC5PD509QEaDzd_7Uik3vN2kYg.GIF.junwu19/5.gif?type=w966" width="80%">
 
 ### **스터디 - 문제집 페이지**
 
@@ -104,7 +104,7 @@
 ```
 
 <br>
-<img src="/uploads/8d881d039e91c31eb21b3d1707cee266/studyNotes.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMjA5/MDAxNjY5MzQyMDk0NTY5.vt5NpCeKa67hOWvFeF90_IGV2xXc4V50Bu6AyFD9gvwg.H8F0uHhlFRPhmxW-LB_cVOZ97PSYn0yHJi-D3EKAv-8g.GIF.junwu19/6.gif?type=w966" width="80%">
 
 ### **스터디 - 챌린지**
 
@@ -113,7 +113,7 @@
 ```
 
 <br>
-<img src="/uploads/d3c39f852552deb0c5dfddf3b87d72cf/challenge.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTQx/MDAxNjY5MzQyMDg3MTI1.__DpbT7Rtayuq_WQGjj1jkxVvs_WIdVnve_mxoWlA7cg.TZpwyY4LcCLf-MBC8_wUkfYQeC10bAO15Drb4CA5YUUg.GIF.junwu19/7.gif?type=w966" width="80%">
 
 ### **문제풀기**
 
@@ -122,7 +122,7 @@
 ```
 
 <br>
-<img src="/uploads/724fbab966c4375f7403764f0126ee14/문제풀기_.gif" width="80%">
+<img src="https://i.imgur.com/4TY08Mi.gif" width="80%">
 
 ### **리뷰**
 
@@ -131,7 +131,7 @@
 ```
 
 <br>
-<img src="/uploads/ef0c9b60920fdd8926d28a0a83aab30b/review.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTYy/MDAxNjY5MzQyMDkyOTQ0.Rb0-a7ZgsBS2ME3mxQ9pvjfWVJbMR9U4Or0GkLi5NHkg.CaYIE5tGhQuR7Veqa8J9cP7b8-l1NjfRZwsAm8yb-dwg.GIF.junwu19/9.gif?type=w966" width="80%">
 
 ### **Github 연동**
 
@@ -140,7 +140,7 @@ Github연동 기능이에요. 확장프로그램을 사용해서 자동으로 �
 ```
 
 <br>
-<img src="/uploads/4c4009d4d1be498e30f0deebff8f30bc/github.gif" width="80%">
+<img src="https://postfiles.pstatic.net/MjAyMjExMjVfMTkx/MDAxNjY5MzQyMDk3NTUy.-lkWfHhxp_aV1IPuSz6kFK5TMxP_0_6lUMzJR1LIsSog.uLv9PP-pR-_e_LrD1bOMVxh5vDypWqpdjIOiPLv0XScg.GIF.junwu19/10.gif?type=w966" width="80%">
 
 ##  산출물
 
