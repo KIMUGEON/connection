@@ -1,5 +1,5 @@
-# connection
 <img src="https://user-images.githubusercontent.com/55612264/215772407-ebd67f75-80d8-49ed-bbdc-2777f15368e4.jpg"/> 
+# connection
 - 진행 기간 : 2022.10.11 ~ 2022.11.21 (6주간) <br/>
 - 서비스 명 : connection (code + connection)
 
